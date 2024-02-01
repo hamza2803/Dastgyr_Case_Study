@@ -1,0 +1,26 @@
+ID,Name,Complaint ID
+46,Shop Closed,2
+47,Customer does not have cash,2
+48,Other,2
+49,Driver got late,3
+50,Vehicle broke down,3
+51,Some SKUs were missing,3
+52,Other,3
+54,Vehicle broke down,4
+56,Damaged/short expiry,4
+57,Other,4
+62,Customer Claims That He Has Already Received The Same Before,5
+53,Late Delivery,4
+55,SKU's NA,4
+28,Incomplete Order,4
+63,Other,5
+64,Dukaan band thi,6
+65,Dukaan daar ka rawaiya theek nahi tha,6
+66,Other,6
+58,Customer Does Not Have Cash,5
+59,Shop Closed And Customer Not Responding,5
+60,Customer Has Already Purchased It From Somewhere Else,5
+61,Customer Claims That He Hasn't Placed The Order,5
+29,No Service Area,4
+31,Agent Was Misbehaving,4
+30,Retailer's Location is Incorrect,4
